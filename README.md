@@ -1,0 +1,2 @@
+# Algorithm Analysis Project with Backtracking
+This program is an implementation of a backtracking algorithm for solving a color puzzle. The puzzle consists of a square board where each cell can be colored with one of the given number of colors. The goal is to color the board in such a way that no two adjacent cells have the same color. The code allows the user to input the size of the board and the colors for each cell, and then uses backtracking to find a solution for the puzzle or determine that no solution exists.
